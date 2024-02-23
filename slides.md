@@ -1,38 +1,141 @@
 --- { "layout" : "center" }
 # GitHub Bootcamp
 
-## This is my slide
-
 ---
 
-- How to initialise a new repository
+### How to initialise a new repository
 
-Use the following command to initialize a new Git repository:
+1- Open your terminal or command prompt where you want to create the new repository.
 
 ```bash
-git init
+$ cd /path/to/your/project
+```
+
+2- Use the following command to initialize a new Git repository.
+
+```bash
+$ git init
 ```
 
 ---
 
-- How to review changes
+3- If you have an existing repository on a platform like GitHub, you can add a remote.
+
+```bash
+$ gra origin https://github.com/your-username/your-repository.git
+```
+
+4- Add your files to the staging area and commit them.
+
+```bash
+$ gaa
+$ gcmsg "Initial commit"
+```
+
+5- If you added a remote, push your changes to the remote repository.
+
+```bash
+$ gp -u origin master
+```
 
 ---
 
-- How to commit changes
+### How to review changes
+
+To view unstaged changes in your working directory, you can use:
+
+```bash
+$ gd
+```
+
+To review the commit history, including the changes made in each commit, you can use:
+
+```bash
+$ glg
+```
 
 ---
 
-- Create a new branch
+To review changes for a specific file, you can use:
+
+```bash
+$ gd <filename>
+```
 
 ---
 
-- Work on a branch
+### How to commit changes
+
+Before committing changes, you need to stage them. This command adds all changes in your working directory to the staging area.
+
+```bash
+$ gaa
+```
+
+Once you've staged your changes, it's time to commit them with a meaningful message that describes the purpose of the commit.
+
+```bash
+$ gcmsg "Your commit message here"
+```
 
 ---
 
-- Merge branch on main
+### Create a new branch
+
+To create a new branch and switch to it, use the following command:
+
+```bash
+$ gcb new-branch-name
+```
+
+If you're using a more recent version of Git (2.23 and later), you can also use the git switch command:
+
+```bash
+$ gswc new-branch-name
+```
 
 ---
 
-- Delete a branch
+### Work on a branch
+
+---
+
+### Merge branch on main
+
+Before merging, ensure you are on the main branch:
+
+```bash
+$ gco main
+```
+
+To merge a branch into the main branch, use:
+
+```bash
+$ gm main
+```
+
+---
+
+### Delete a branch
+
+To delete a branch locally, use:
+
+```bash
+$ git branch -d branch-name
+```
+
+If the branch was pushed to a remote repository and you want to delete it there:
+
+```bash
+$ git push origin --delete branch-name
+```
+
+---
+
+Verify that the branch is deleted locally and, if applicable, on the remote repository.
+
+```bash
+$ git branch
+```
+
+This command lists all local branches, and the deleted branch should not be in the list.
