@@ -39,4 +39,6 @@ This project is licensed under the [MIT License](LICENSE).
 - Thanks to the Spectacle library for making it easy to create presentations.
 - Contributors and the open-source community for their valuable contributions.
 
-Happy learning! 🚀
+Happy learning! 🚀![jetpacktocat](https://github.com/chaimaaloug/chaima-github-bootcamp/assets/49941834/06589eaa-c81d-4ef8-af71-115537f7195f)
+
+
