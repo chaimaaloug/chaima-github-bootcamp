@@ -5,6 +5,7 @@ Made with ❤️ and Spectacle.
 ## Overview
 
 Welcome to Chaima GitHub Bootcamp! This project is a presentation created with Spectacle to help you learn about Git and GitHub.
+https://chaima-github-bootcamp.vercel.app/?slideIndex=0&stepIndex=0
 
 ## Running the Presentation
 
