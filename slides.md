@@ -5,4 +5,4 @@
 
 ---
 
-- Made with Spectacle
+- How to initialise a new repository
