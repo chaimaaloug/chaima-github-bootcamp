@@ -40,5 +40,7 @@ This project is licensed under the [MIT License](LICENSE).
 - Contributors and the open-source community for their valuable contributions.
 
 Happy learning! 🚀
+
+
 <img src="https://github.com/chaimaaloug/chaima-github-bootcamp/assets/49941834/06589eaa-c81d-4ef8-af71-115537f7195f" width="360">
 
