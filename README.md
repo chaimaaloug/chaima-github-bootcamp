@@ -9,21 +9,21 @@ Welcome to Chaima GitHub Bootcamp! This project is a presentation created with S
 ## Running the Presentation
 
 1. **Install Dependencies:**
-   ```bash
-   yarn install
-   ```
+```bash
+yarn install
+```
 or
-  ```bash
-   npm install
+```bash
+npm install
 ```
 
-1. **Start the Presentation:**
- ```bash
-   yarn start
-   ```
+2. **Start the Presentation:**
+```bash
+yarn start
+```
 or
-  ```bash
-   npm start
+```bash
+npm start
 ```
 
 ## Contributing
