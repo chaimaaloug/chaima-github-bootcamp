@@ -154,3 +154,18 @@ Tips 💡:
 
 - Always pull changes before pushing to avoid conflicts.
 - Push regularly to keep your remote up-to-date.
+
+---
+
+### Pulling changes from remote
+
+This command fetches changes from the remote and merges them into your current branch.
+
+```bash
+git pull <remote-name> <branch-name>
+```
+
+Tips 💡:
+
+- Pull regularly to stay updated with remote changes.
+- Resolve any conflicts that may arise during the pull.
