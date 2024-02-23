@@ -7,6 +7,12 @@
 
 - How to initialise a new repository
 
+Use the following command to initialize a new Git repository:
+
+```bash
+git init
+```
+
 ---
 
 - How to review changes
@@ -26,3 +32,7 @@
 ---
 
 - Merge branch on main
+
+---
+
+- Delete a branch
