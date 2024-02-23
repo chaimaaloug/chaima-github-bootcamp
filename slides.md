@@ -1,5 +1,8 @@
 --- { "layout" : "center" }
+
 # GitHub Bootcamp
+
+<img width="620" alt="spidertocat.png" src="https://octodex.github.com/images/mona-the-rivetertocat.png">
 
 ---
 
