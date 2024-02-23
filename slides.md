@@ -10,3 +10,7 @@
 ---
 
 - How to review changes
+
+---
+
+- How to commit changes
