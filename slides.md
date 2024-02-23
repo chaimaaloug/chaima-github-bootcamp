@@ -99,10 +99,6 @@ $ gswc new-branch-name
 
 ---
 
-### Work on a branch
-
----
-
 ### Merge branch on main
 
 Before merging, ensure you are on the main branch:
@@ -142,3 +138,19 @@ $ git branch
 ```
 
 This command lists all local branches, and the deleted branch should not be in the list.
+
+---
+
+### Pushing changes to remote
+
+This command sends your commits to the remote repository on platforms like GitHub.
+
+```bash
+git push <remote-name> <branch-name>
+git push origin main
+```
+
+Tips 💡:
+
+- Always pull changes before pushing to avoid conflicts.
+- Push regularly to keep your remote up-to-date.
