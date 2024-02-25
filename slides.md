@@ -214,3 +214,15 @@ such projects on the internet
 ```python
 print("Hello, Spectacle!")
 ```
+
+---
+
+# Slide: MAKING A COMMIT
+
+Make some changes to a file
+Use the git add command or Atom to
+add files to the staging area
+Type a commit message (that shortly
+describes the changes you made since
+the last commit) into the commit
+message box, and click the Commit button.
