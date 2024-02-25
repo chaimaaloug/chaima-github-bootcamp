@@ -206,3 +206,11 @@ such projects on the internet
 ## "Branching Strategies in Git"
 
 > "In Git, every commit is like a snapshot of your project at a specific point in time, making it easy to navigate and collaborate."
+
+---
+
+# Slide: Code
+
+```python
+print("Hello, Spectacle!")
+```
