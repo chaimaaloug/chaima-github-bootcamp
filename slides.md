@@ -2,7 +2,7 @@
 
 # GitHub Bootcamp
 
-<img width="620" alt="spidertocat.png" src="https://octodex.github.com/images/mona-the-rivetertocat.png">
+<img width="580" alt="spidertocat.png" src="https://octodex.github.com/images/mona-the-rivetertocat.png">
 
 ---
 
@@ -45,7 +45,7 @@ $ gp -u origin master
 
 ### How to review changes
 
-To view unstaged changes in your working directory, you can use:
+To view <span style='color:yellow'>unstaged changes</span> in your working directory, you can use:
 
 ```bash
 $ gd
