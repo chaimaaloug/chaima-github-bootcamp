@@ -181,3 +181,14 @@ Git is the software you will use locally
 to record changes to a set of files. GitHub is a
 hosting service that provides a Git-aware home for
 such projects on the internet
+
+---
+
+### REPOSITORIES
+
+- Often referred to as a repo, this a collection of all your files and
+  the history of those files (i.e. commits)
+
+- Can live on a local machine or on a remote server (e.g. GitHub)
+
+- The act of copying a repo from a remote server is called cloning
