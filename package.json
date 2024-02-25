@@ -4,7 +4,13 @@
   "scripts": {
     "start": "webpack-dev-server --hot --config ./webpack.config.js",
     "clean": "rimraf dist",
-    "build": "webpack --config ./webpack.config.js --mode production"
+    "build": "webpack --config ./webpack.config.js --mode production",
+    "changelog": "auto-changelog -p && git add CHANGELOG.md"
+  },
+  "config": {
+    "commitizen": {
+      "path": "git-cz"
+    }
   },
   "dependencies": {
     "react": "^18.2.0",
