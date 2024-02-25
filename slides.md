@@ -169,3 +169,15 @@ Tips 💡:
 
 - Pull regularly to stay updated with remote changes.
 - Resolve any conflicts that may arise during the pull.
+
+---
+
+### WHAT ARE GIT AND GITHUB?
+
+Git is a particular implementation of version control originally designed by Linus Torvalds in 2005 as a way of managing the Linux kernel. Git manages the evolution
+of a set of files – called a repository or repo
+
+Git is the software you will use locally
+to record changes to a set of files. GitHub is a
+hosting service that provides a Git-aware home for
+such projects on the internet
