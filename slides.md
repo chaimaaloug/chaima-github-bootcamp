@@ -192,3 +192,9 @@ such projects on the internet
 - Can live on a local machine or on a remote server (e.g. GitHub)
 
 - The act of copying a repo from a remote server is called cloning
+
+--- { "layout" : "center" }
+
+### Git Push Pull Commands
+
+<img width="730" alt="github.png" src="https://edav.info/images/git/pull-request-2.png">
