@@ -198,3 +198,11 @@ such projects on the internet
 ### Git Push Pull Commands
 
 <img width="730" alt="github.png" src="https://edav.info/images/git/pull-request-2.png">
+
+---
+
+# Git Basics
+
+## "Branching Strategies in Git"
+
+> "In Git, every commit is like a snapshot of your project at a specific point in time, making it easy to navigate and collaborate."
