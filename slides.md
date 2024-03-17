@@ -226,3 +226,11 @@ Type a commit message (that shortly
 describes the changes you made since
 the last commit) into the commit
 message box, and click the Commit button.
+
+---
+
+# Slide: Automation
+
+## How to automate issue closing
+
+Explore ways to automate the closing of GitHub issues effortlessly.
