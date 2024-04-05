@@ -239,3 +239,7 @@ print("Hello, Spectacle!")
 ---
 
 ### This one will be reverted
+
+---
+
+### How to fix the last commit message
