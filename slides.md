@@ -172,7 +172,7 @@ Tips 💡:
 
 ---
 
-### WHAT ARE GIT AND GITHUB?
+### What are Git and Github ?
 
 - Git is a particular implementation of version control originally designed by Linus Torvalds in 2005 as a way of managing the Linux kernel. Git manages the evolution of a set of files – called a repository or repo
 
