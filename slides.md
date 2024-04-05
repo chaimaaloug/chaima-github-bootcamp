@@ -184,7 +184,7 @@ such projects on the internet
 
 ---
 
-### REPOSITORIES
+### Repositories
 
 - Often referred to as a repo, this a collection of all your files and
   the history of those files (i.e. commits)
@@ -209,7 +209,7 @@ such projects on the internet
 
 ---
 
-# Slide: Code
+# Code
 
 ```python
 print("Hello, Spectacle!")
@@ -217,7 +217,7 @@ print("Hello, Spectacle!")
 
 ---
 
-# Slide: MAKING A COMMIT
+# Making a commit
 
 Make some changes to a file
 Use the git add command or Atom to
