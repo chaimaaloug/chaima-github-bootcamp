@@ -235,3 +235,7 @@ print("Hello, Spectacle!")
 ---
 
 ### How to use git fragments
+
+---
+
+### This one will be reverted
