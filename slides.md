@@ -243,3 +243,7 @@ print("Hello, Spectacle!")
 ---
 
 ### How to fix the last commit message
+
+---
+
+### How to rebase
