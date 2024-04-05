@@ -231,7 +231,6 @@ print("Hello, Spectacle!")
 - Commit Changes: Utilize git commit -m "Your commit message" to commit staged changes.
 - Review Changes: Always review modifications before committing to ensure accuracy.
 - Push Changes: If collaborating, push commits to the remote repository using git push.
-<<<<<<< HEAD
 
 ---
 
@@ -240,5 +239,3 @@ print("Hello, Spectacle!")
 ---
 
 ### This one will be reverted
-=======
->>>>>>> parent of 2e97394 (Adding new slide How to use git fragments)
