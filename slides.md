@@ -246,4 +246,7 @@ print("Hello, Spectacle!")
 
 ---
 
-### How to rebase
+### How to stash / pop
+
+- Stashing in Git allows you to temporarily store changes without committing them.
+- To stash changes, use git stash, and to reapply the stashed changes, use git stash pop.
