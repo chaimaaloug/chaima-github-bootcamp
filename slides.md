@@ -203,13 +203,13 @@ such projects on the internet
 
 # Git Basics
 
-## "Branching Strategies in Git"
+### "Branching Strategies in Git"
 
 > "In Git, every commit is like a snapshot of your project at a specific point in time, making it easy to navigate and collaborate."
 
 ---
 
-# Code
+### Code
 
 ```python
 print("Hello, Spectacle!")
@@ -217,7 +217,7 @@ print("Hello, Spectacle!")
 
 ---
 
-# Making a commit
+### Making a commit
 
 - Make some changes to a file
 - Use the git add command or Atom to add files to the staging area
@@ -225,7 +225,7 @@ print("Hello, Spectacle!")
 
 ---
 
-# How to apply commit
+### How to apply commit
 
 - Stage Changes: Use git add <file> to stage modifications for the next commit.
 - Commit Changes: Utilize git commit -m "Your commit message" to commit staged changes.
