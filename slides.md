@@ -131,19 +131,19 @@ $ git push origin --delete branch-name
 
 ---
 
-Verify that the branch is deleted locally and, if applicable, on the remote repository.
+- Verify that the branch is deleted locally and, if applicable, on the remote repository.
 
 ```bash
 $ git branch
 ```
 
-This command lists all local branches, and the deleted branch should not be in the list.
+- This command lists all local branches, and the deleted branch should not be in the list.
 
 ---
 
 ### Pushing changes to remote
 
-This command sends your commits to the remote repository on platforms like GitHub.
+- This command sends your commits to the remote repository on platforms like GitHub.
 
 ```bash
 git push <remote-name> <branch-name>
@@ -159,7 +159,7 @@ Tips 💡:
 
 ### Pulling changes from remote
 
-This command fetches changes from the remote and merges them into your current branch.
+- This command fetches changes from the remote and merges them into your current branch.
 
 ```bash
 git pull <remote-name> <branch-name>
@@ -174,13 +174,10 @@ Tips 💡:
 
 ### WHAT ARE GIT AND GITHUB?
 
-Git is a particular implementation of version control originally designed by Linus Torvalds in 2005 as a way of managing the Linux kernel. Git manages the evolution
-of a set of files – called a repository or repo
+- Git is a particular implementation of version control originally designed by Linus Torvalds in 2005 as a way of managing the Linux kernel. Git manages the evolution of a set of files – called a repository or repo
 
-Git is the software you will use locally
-to record changes to a set of files. GitHub is a
-hosting service that provides a Git-aware home for
-such projects on the internet
+- Git is the software you will use locally to record changes to a set of files. GitHub is a hosting service that provides a Git-aware home for
+  such projects on the internet
 
 ---
 
@@ -231,3 +228,9 @@ print("Hello, Spectacle!")
 - Commit Changes: Utilize git commit -m "Your commit message" to commit staged changes.
 - Review Changes: Always review modifications before committing to ensure accuracy.
 - Push Changes: If collaborating, push commits to the remote repository using git push.
+
+---
+
+### Chaimaa LOUGSARI
+
+![](https://raw.githubusercontent.com/flexbox/github-bootcamp/main/slides/github-bootcamp.png)
