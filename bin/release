@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 echo "Starting the release: what's your version? Example: 1.0.0"
 
