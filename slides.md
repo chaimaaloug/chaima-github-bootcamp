@@ -231,6 +231,6 @@ print("Hello, Spectacle!")
 
 ---
 
-### Chaimaa LOUGSARI
+### <span style='color:white'> Chaimaa LOUGSARI </span>
 
 ![](https://raw.githubusercontent.com/flexbox/github-bootcamp/main/slides/github-bootcamp.png)
